@@ -1,0 +1,20 @@
+{
+  "id": 761,
+  "title": "Trailer Level Monitor GPS Trip Logging",
+  "repository_slug": "trailer-level-monitor-gps-trip-logging",
+  "category": "Smart Vehicles",
+  "platform": "Raspberry Pi",
+  "platform_family": "python",
+  "difficulty": "Intermediate",
+  "estimated_hours": 28,
+  "connectivity": "CAN bus",
+  "components": [
+    "cellular modem",
+    "GPS module"
+  ],
+  "scope": "Build a smart vehicles prototype that uses cellular modem, GPS module to record routes, speed, and trip summaries. Include setup instructions, a circuit diagram, tested firmware, and sample output.",
+  "key_deliverable": "GPS Trip Logging demonstration with repeatable test steps",
+  "mode": "data_logger",
+  "entrypoint": "src/main.py",
+  "roadmap_source": "openmaker-2100-project-roadmap.xlsx"
+}
